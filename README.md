@@ -3,6 +3,9 @@
 ## Author : Romain Raveaux
 Gradient descent is an algorithm to find the parameters of a model.
 
+## The notebook can be seen here in HTML
+http://romain.raveaux.free.fr/document/GradientDescent.html
+
 On the basis of a set of data set comprising M input values $X = (x_1, . . . , x_M)^T$ and their corresponding target values $T = (t_1, . . . , t_M)^T$, we want to find the parameters $W$ of the model $f(x,W)$ such that a given criterion is minimized. 
 
 ## The criterion
